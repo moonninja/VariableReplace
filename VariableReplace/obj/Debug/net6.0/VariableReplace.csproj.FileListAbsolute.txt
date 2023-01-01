@@ -1,0 +1,15 @@
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\bin\Debug\net6.0\VariableReplace.exe
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\bin\Debug\net6.0\VariableReplace.deps.json
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\bin\Debug\net6.0\VariableReplace.runtimeconfig.json
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\bin\Debug\net6.0\VariableReplace.dll
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\bin\Debug\net6.0\VariableReplace.pdb
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.csproj.AssemblyReference.cache
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.AssemblyInfoInputs.cache
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.AssemblyInfo.cs
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.csproj.CoreCompileInputs.cache
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.dll
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\refint\VariableReplace.dll
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.pdb
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\VariableReplace.genruntimeconfig.cache
+C:\Users\Alois\source\repos\VariableReplace\VariableReplace\obj\Debug\net6.0\ref\VariableReplace.dll
